@@ -1,0 +1,71 @@
+﻿nav {
+	background-color: #000;
+}
+
+nav a {
+	font-family: Futura, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #ddd;
+}
+
+h2 {
+	font-family: Futura, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000;
+}
+
+body {
+    padding-top: 50px;
+	padding-bottom: 20px;
+	height: 100%;
+}
+
+body p, td, dl, a {
+	font-family: Palatino, Baskerville, Georgia, Serif;
+}
+
+th {
+	font-family: Futura, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000;
+}
+
+a :hover {
+	color: #800;
+}
+
+.container .body-content {
+	height: auto;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+	padding-right: 15px;
+	background-color: #eee;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}

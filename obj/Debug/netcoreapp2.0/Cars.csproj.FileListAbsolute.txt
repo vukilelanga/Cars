@@ -1,0 +1,10 @@
+/Users/vukilelanga/Documents/Code/Blah/Cars/bin/Debug/netcoreapp2.0/Cars.deps.json
+/Users/vukilelanga/Documents/Code/Blah/Cars/bin/Debug/netcoreapp2.0/Cars.runtimeconfig.json
+/Users/vukilelanga/Documents/Code/Blah/Cars/bin/Debug/netcoreapp2.0/Cars.runtimeconfig.dev.json
+/Users/vukilelanga/Documents/Code/Blah/Cars/bin/Debug/netcoreapp2.0/Cars.dll
+/Users/vukilelanga/Documents/Code/Blah/Cars/bin/Debug/netcoreapp2.0/Cars.pdb
+/Users/vukilelanga/Documents/Code/Blah/Cars/obj/Debug/netcoreapp2.0/Cars.csproj.CoreCompileInputs.cache
+/Users/vukilelanga/Documents/Code/Blah/Cars/obj/Debug/netcoreapp2.0/Cars.AssemblyInfoInputs.cache
+/Users/vukilelanga/Documents/Code/Blah/Cars/obj/Debug/netcoreapp2.0/Cars.AssemblyInfo.cs
+/Users/vukilelanga/Documents/Code/Blah/Cars/obj/Debug/netcoreapp2.0/Cars.dll
+/Users/vukilelanga/Documents/Code/Blah/Cars/obj/Debug/netcoreapp2.0/Cars.pdb
