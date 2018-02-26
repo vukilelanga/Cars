@@ -25,7 +25,7 @@ namespace Cars
         {
             services.AddMvc();
 
-			services.AddDbContext<CarContext>(options => options.UseSqlServer("Data Source=Cars.db"));
+			services.AddDbContext<CarContext>(options => options.UseSqlite("Data Source=Cars.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
